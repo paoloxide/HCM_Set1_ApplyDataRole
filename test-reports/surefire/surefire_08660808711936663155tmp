@@ -1,0 +1,14 @@
+#surefire_0
+#Mon Apr 18 15:09:10 CST 2016
+maven.build.timestamp.format=yyyyMMddHHmmss
+checkForScreenErrors=true
+institution=
+org.uncommons.reportng.title=Sample Regression Report
+testSuiteName=projectname-regression-test
+testReportDirectory=test-reports/20160418070851-projectname-regression-test
+user.dir=C\:\\Users\\jerrick.m.falogme\\Downloads\\HCM-Configs\\HCM-Configs\\HCM-Configs\\hcmselenium
+localRepository=C\:\\Users\\jerrick.m.falogme\\.m2\\repository
+reporttime=20160418070851
+basedir=C\:\\Users\\jerrick.m.falogme\\Downloads\\HCM-Configs\\HCM-Configs\\HCM-Configs\\hcmselenium
+org.uncommons.reportng.escape-output=false
+takeSnapshotEveryNext=true
